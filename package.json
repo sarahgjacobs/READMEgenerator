@@ -1,0 +1,23 @@
+{
+  "name": "readmeproj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarahgjacobs/READMEgenerator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarahgjacobs/READMEgenerator/issues"
+  },
+  "homepage": "https://github.com/sarahgjacobs/READMEgenerator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
