@@ -1,5 +1,5 @@
-# asd
-[![Apache](https://img.shields.io/badge/license-apache-yellow)](https://opensource.org/licenses/Apache-2.0)
+# Practice
+![MIT](https://img.shields.io/badge/license-mit-blue)
 
 ## Table of Contents
 - [Description](#description)
@@ -8,21 +8,21 @@
 - [Contributions](#contributions)
 - [Test](#test)
 - [Contact](#contact)
-- [License] (#license)
+- [License](#license)
 
 ### Description
-asd
+A practice video
 ### Installation
-asd
+This video
 ### Usage
-ads
+For homeowrk
 ### Contributions
-undefined
+Sarah Jacobs
 ### Test
-ads
+None required
 ### Contact
-For more information please contact: [asd](mailto:asd)
-Or visit my GitHub page at: [asd]
+For more information please contact: [sgjacobs14@gmail.com](mailto:sgjacobs14@gmail.com)
+Or visit my GitHub page at: [sarahgjacobs]
 
 ### License 
-    This software is licensed under Apache License 2.0
+    This software is licensed under MIT License
